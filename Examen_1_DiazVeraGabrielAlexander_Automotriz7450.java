@@ -3,7 +3,7 @@ package examen_1_diazveragabrielalexander_automotriz.pkg7450;
 
 /**
  *
- * @author User
+ * @author Diaz Vera Gabriel Alexander
  */
 class Libro_Fisica {
 
